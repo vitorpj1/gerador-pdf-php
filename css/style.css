@@ -1,0 +1,37 @@
+.bg-dash{
+    background-color: #1A1F23;
+}
+.bg-elemento-dash{
+    background-color: #434a50;
+}
+.azul-dash{
+    background-color: #2D5696;
+}
+.laranja-dash{
+    background-color: #FF8347;
+}
+.verde-dash{
+    background-color: #25D398;
+}
+.vermelho-dash{
+    background-color: #FE497E;
+}
+.branco-dash{
+    background-color: #E5EDEC;
+}
+.branco{
+    color: white;
+}
+.borda-dash{
+    border: 5px solid #1A1F23;
+}
+.button{
+    text-decoration: none;
+    padding: 10px;
+    border: none;
+    text-align: center;
+}
+.img-grupo img{
+    height: 350px;
+    border-radius: 50%;
+}
